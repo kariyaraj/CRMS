@@ -1,9 +1,7 @@
 <?php 
 
 include('header.php');
-// echo '<pre>';
-// print_r($origins);
-// echo '</pre>';
+
  ?>
 
 
@@ -19,9 +17,7 @@ include('header.php');
 	<div class="col-md-8">
 		<div class="panel panel-inverse">
 			<div class="panel-body">
-			 <!-- <h2>
-			 CID
-			 </h2> -->
+
 				
 			</div>
 		</div>
